@@ -1,0 +1,3 @@
+for Linux
+	apt-get install fpc // free pascal compiler
+	fpc docname.pas 
